@@ -1,8 +1,6 @@
-![](rapids.png)
+# Accelerate GIS data processing by up to 10000x.
 
-# Using Rapids 
-
-These notebooks compare [RAPIDS](https://rapids.ai) on GPU's to conventional Python tools on CPU's.
+This [presentation](https://www.eventbrite.ca/e/accelerate-gis-data-processing-by-up-to-10000x-tickets-224151722837) was given on 16Dec2021. It shows how to switch from Pandas to cuDF.
 
 ### 1. cuDF compared to Pandas
 
